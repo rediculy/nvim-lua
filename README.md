@@ -1,2 +1,1 @@
-# nvim-lua
-# Как сделать хорошее ide с nvim-lua?
+# Как сделать хорошее ide из nvim-lua?
